@@ -3,7 +3,7 @@
     "description": "https://github.com/symfony/symfony/issues/40634",
     "type": "project",
     "require": {
-        "symfony/console": "5.2.5"
+        "symfony/console": "5.2.6"
     },
     "license": "MIT",
     "minimum-stability": "stable"
