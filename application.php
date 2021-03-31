@@ -30,8 +30,6 @@ class GenerateAdminCommand extends Command
 
         $table->render();
 
-        $output->write('jee');
-
         return Command::SUCCESS;
     }
 }
