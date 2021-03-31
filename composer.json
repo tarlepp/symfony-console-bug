@@ -1,0 +1,10 @@
+{
+    "name": "tarlepp/symfony-console-bug",
+    "description": "https://github.com/symfony/symfony/issues/40634",
+    "type": "project",
+    "require": {
+        "symfony/console": "5.2.5"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
